@@ -1,0 +1,9 @@
+
+Descripcion:Buscar zapatillas en la web de Amazon
+precondicion: Contar con conexion a internet
+Pasos:
+a. Ingresar a la url www.amazon.com
+b. Ingresar Nombre de producto en la casilla de busqueda  y presionar Buscar
+c. elegir en producto deseado
+Post condicion:Ninguna
+Resultado esperado: Producto encontrado
